@@ -1,0 +1,19 @@
+article {
+	width: 700px;
+	height: 200px;
+	background-color: #d32;
+	color: #fff;
+	transition: 1000ms;
+	margin: 0 auto;
+}
+article:hover {
+	transform: rotate(33deg);
+	background: #5ee8ca;
+	color: #000;
+}
+h1 {
+	font-weight: 600px;
+	font-size: 14rem;
+	text-align: center;
+	line-height: 200px;
+}
